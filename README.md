@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nkqeUzSC)
 # ST455 Project: Evaluating Value-Based Reinforcement Learning Approaches for Chemotherapy Drug Dosing 
 
-Candidate Numbers: 50603, 51116, 36536
-
 All candidates contribute equally to this project.
 
 Relevant Files: 
